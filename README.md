@@ -1,2 +1,1 @@
-# snellsec.github.io
-SnellSec Website
+# flga.github.io
